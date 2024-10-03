@@ -1,1 +1,2 @@
 # Competency
+Ce projet consiste en la création d'une application de gestion des compétences. L'application utilise une architecture MVC pour séparer la logique de présentation, de contrôle et de données, assurant ainsi une meilleure maintenabilité. Les données sont stockées dans une base de données MySQL, et les interactions avec la base sont gérées via le pattern DAO. Le serveur Tomcat est utilisé pour déployer l'application, et les pages sont générées dynamiquement avec JSP.
